@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
  </div>
  
- [![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aqtion&count_private=true&theme=tokyonight&show_icons=true&compact=true&custom_title=About%20Languages)](https://wakatime.com/@aqtion)
+ <!--START_SECTION:waka-->
+ 
+<!--END_SECTION:waka-->
 <!--
 **braden0m/braden0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
