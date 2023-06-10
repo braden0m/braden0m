@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
  </div>
  
+[![braden0m's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braden0m&count_private=true&theme=merko&show_icons=true)](https://wakatime.com/@braden0m)
+<!-- [![braden0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=braden0m&theme=merko&show_icons=true)](https://github.com/braden0m/github-readme-stats) -->
  <!--START_SECTION:waka-->
  
 <!--END_SECTION:waka-->
