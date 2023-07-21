@@ -24,6 +24,11 @@
  <ul> 
   <li>Marble Madness Remake: https://braden0m.itch.io/marble-madness-remake <img src = "./MM.png" /></li>
  </ul>
+
+ <h3>Artificial Intelligence</h3>
+ <ul>
+  <li>Music Generation: https://github.com/braden0m/music-making</li>
+ </ul>
  
 <!--END_SECTION:waka-->
 <!--
