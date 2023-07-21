@@ -22,7 +22,7 @@
  <h1>Some of my Projects</h1>
  <h3>Games</h3>
  <ul> 
-  <li>Marble Madness Remake: https://braden0m.itch.io/marble-madness-remake</li>
+  <li>Marble Madness Remake: https://braden0m.itch.io/marble-madness-remake <img src = "./MM.png" /></li>
  </ul>
  
 <!--END_SECTION:waka-->
