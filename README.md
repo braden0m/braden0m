@@ -27,7 +27,7 @@
 
  <h3>Artificial Intelligence</h3>
  <ul>
-  <li>Music Generation: https://github.com/braden0m/music-making</li>
+  <li>Music Generation: https://github.com/braden0m/music-making <img src = "./AIMusic.png" /></li> 
  </ul>
  
 <!--END_SECTION:waka-->
