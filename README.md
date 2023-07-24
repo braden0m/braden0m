@@ -20,14 +20,14 @@
  <!--START_SECTION:waka-->
 
  <h1>Some of my Projects</h1>
- <h3>Games</h3>
- <ul> 
-  <li>Marble Madness Remake: https://braden0m.itch.io/marble-madness-remake <img src = "./MM.png" /></li>
- </ul>
-
  <h3>Artificial Intelligence</h3>
  <ul>
   <li>Music Generation: https://github.com/braden0m/music-making <img src = "./AIMusic.png" /></li> 
+ </ul>
+
+  <h3>Games</h3>
+ <ul> 
+  <li>Marble Madness Remake: https://braden0m.itch.io/marble-madness-remake <img src = "./MM.png" /></li>
  </ul>
  
 <!--END_SECTION:waka-->
