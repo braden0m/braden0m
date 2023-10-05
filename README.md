@@ -21,13 +21,13 @@
  <h1>Some of my Projects</h1>
  <h3>Artificial Intelligence</h3>
  <ul>
-  <li>Music Generation: https://github.com/braden0m/music-making <img src = "./AIMusic.png" /></li> 
+  <li><a href="https://github.com/braden0m/music-making" target="_blank" rel="noopener noreferrer">AI Music Generation Project </a>: <img src="./AIMusic.png" alt="AIMusic" /></li> 
  </ul>
 
   <h3>Games</h3>
  <ul>   
-  <li>Save Mi VR Game: https://braden0m.itch.io/save-mi <br><img src="./savemilogo.png" width="256" height="256" alt="Save Mi VR Game Logo" /></li>
-  <li>Marble Madness Remake: https://braden0m.itch.io/marble-madness-remake <img src = "./MM.png" /></li>
+  <li><a href="https://braden0m.itch.io/save-mi" target="_blank" rel="noopener noreferrer">Save Mi VR Game</a>: <br><img src="./savemilogo.png" width="256" height="256" alt="Save Mi VR Game Logo" /></li>
+  <li><a href="https://braden0m.itch.io/marble-madness-remake" target="_blank" rel="noopener noreferrer">Marble Madness Remake</a>: <img src="./MM.png" alt="Marble Madness Remake Logo" /></li>
  </ul>
  
 <!--END_SECTION:waka-->
