@@ -25,7 +25,8 @@
  </ul>
 
   <h3>Games</h3>
- <ul> 
+ <ul>   
+  <li>Save Mi VR Game: https://braden0m.itch.io/save-mi <br><img src="./savemilogo.png" width="256" height="256" alt="Save Mi VR Game Logo" /></li>
   <li>Marble Madness Remake: https://braden0m.itch.io/marble-madness-remake <img src = "./MM.png" /></li>
  </ul>
  
