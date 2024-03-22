@@ -26,7 +26,7 @@
  
  <h3>Perfect Pitch Trainer</h3>
  <ul>
-  <li>Training Tool: https://www.perfectingpitch.com/ <img src = "./favicon.ico"></li>
+  <li>Training Tool: https://www.perfectingpitch.com/ <br><img src = "./favicon.ico"></li>
  </ul>
  
   <h3>Games</h3>
