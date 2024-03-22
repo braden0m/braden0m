@@ -23,7 +23,12 @@
  <ul>
   <li>Music Generation: https://github.com/braden0m/music-making <img src = "./AIMusic.png" /></li> 
  </ul>
-
+ 
+ <h3>Perfect Pitch Trainer</h3>
+ <ul>
+  <li>Training Tool: https://www.perfectingpitch.com/ <img src = "./favicon.ico"></li>
+ </ul>
+ 
   <h3>Games</h3>
  <ul>   
   <li>Save Mi VR Game: https://braden0m.itch.io/save-mi <br><img src="./savemilogo.png" width="256" height="256" alt="Save Mi VR Game Logo" /></li>
