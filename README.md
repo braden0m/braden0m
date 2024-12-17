@@ -15,11 +15,11 @@
 
  </div>
  
-[![braden0m's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braden0m&count_private=true&theme=merko&show_icons=true)](https://wakatime.com/@braden0m)
+<!-- [![braden0m's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=braden0m&count_private=true&theme=merko&show_icons=true)](https://wakatime.com/@braden0m) -->
 <!-- [![braden0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=braden0m&theme=merko&show_icons=true)](https://github.com/braden0m/github-readme-stats) -->
  <!--START_SECTION:waka-->
 
- <h1>Some of my Projects</h1>
+ <h1>Projects</h1>
  <h3>Artificial Intelligence</h3>
  <ul>
   <li>Music Generation: https://github.com/braden0m/music-making <img src = "./AIMusic.png" /></li> 
